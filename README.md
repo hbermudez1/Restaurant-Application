@@ -1,21 +1,17 @@
 # Senior Capstone: Restaurant-Application
 
 
-URL: https://github.com/hbermudez1/Restaurant-Application
-
-Problem
+# Problem:
 As the number of mobile applications increase over the years, people will set higher expectations for how it should react and respond. It is no different for a restaurant app. After researching and testing out various applications, some key features that was shown  were: technical glitches, poor user interface, and outdated restaurant information. Addressing these issues requires ongoing monitoring, proactive communication with users and stakeholders, regular updates and improvements, and a commitment to delivering a seamless and satisfying experience for users.  
 
-# Technologies Used
+# Technologies Used:
 Languages and Frameworks
-
 React Native
 NodeJS
 Javascript
 
 
 Software:
-
 Visual Studio Code
 MongoDB
 Ngrok
